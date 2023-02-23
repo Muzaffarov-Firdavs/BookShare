@@ -50,7 +50,7 @@ namespace BookShare.Service.Services
             {
                 orderViewModel.BookId = order.BookId;
                 orderViewModel.StudentId = order.StudentId;
-                orderViewModel.Payment = order.Payment;
+                orderViewModel.PaymentId = order.PaymentId;
 
                 models.Add(orderViewModel);
             }
@@ -69,7 +69,7 @@ namespace BookShare.Service.Services
 
             orderViewModel.BookId = order.BookId;
             orderViewModel.StudentId = order.StudentId;
-            orderViewModel.Payment = order.Payment;
+            orderViewModel.PaymentId = order.PaymentId;
 
             return orderViewModel;
 

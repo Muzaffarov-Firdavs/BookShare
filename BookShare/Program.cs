@@ -11,11 +11,11 @@ FacultyAdmenService facultyAdmenService = new FacultyAdmenService(genericReposit
 
 FacultyAdminCreationDto facultyAdmin = new FacultyAdminCreationDto()
 {
-    FirstName = "Rasulbek",
-    LastName = "Maxsudov",
-    Email = "Maxsudov@gmail.com",
-    PhoneNumber = "+998900223030",
-    Password = "Password",
+    FirstName = "Muxammad",
+    LastName = "Muxammadov",
+    Email = "mxuamamddv@gmail.com",
+    PhoneNumber = "+998900235088",
+    Password = "Password23",
 
 };
 
