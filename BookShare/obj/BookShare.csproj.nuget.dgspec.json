@@ -1,0 +1,285 @@
+{
+  "format": 1,
+  "restore": {
+    "N:\\Projects\\BookShare\\BookShare\\BookShare.csproj": {}
+  },
+  "projects": {
+    "N:\\Projects\\BookShare\\BookShare.DataAccess\\BookShare.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "N:\\Projects\\BookShare\\BookShare.DataAccess\\BookShare.DataAccess.csproj",
+        "projectName": "BookShare.DataAccess",
+        "projectPath": "N:\\Projects\\BookShare\\BookShare.DataAccess\\BookShare.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\muxam\\.nuget\\packages\\",
+        "outputPath": "N:\\Projects\\BookShare\\BookShare.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\muxam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "N:\\Projects\\BookShare\\BookShare.Domain\\BookShare.Domain.csproj": {
+                "projectPath": "N:\\Projects\\BookShare\\BookShare.Domain\\BookShare.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "N:\\Projects\\BookShare\\BookShare.Domain\\BookShare.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "N:\\Projects\\BookShare\\BookShare.Domain\\BookShare.Domain.csproj",
+        "projectName": "BookShare.Domain",
+        "projectPath": "N:\\Projects\\BookShare\\BookShare.Domain\\BookShare.Domain.csproj",
+        "packagesPath": "C:\\Users\\muxam\\.nuget\\packages\\",
+        "outputPath": "N:\\Projects\\BookShare\\BookShare.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\muxam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "N:\\Projects\\BookShare\\BookShare.Service\\BookShare.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "N:\\Projects\\BookShare\\BookShare.Service\\BookShare.Service.csproj",
+        "projectName": "BookShare.Service",
+        "projectPath": "N:\\Projects\\BookShare\\BookShare.Service\\BookShare.Service.csproj",
+        "packagesPath": "C:\\Users\\muxam\\.nuget\\packages\\",
+        "outputPath": "N:\\Projects\\BookShare\\BookShare.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\muxam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "N:\\Projects\\BookShare\\BookShare.DataAccess\\BookShare.DataAccess.csproj": {
+                "projectPath": "N:\\Projects\\BookShare\\BookShare.DataAccess\\BookShare.DataAccess.csproj"
+              },
+              "N:\\Projects\\BookShare\\BookShare.Domain\\BookShare.Domain.csproj": {
+                "projectPath": "N:\\Projects\\BookShare\\BookShare.Domain\\BookShare.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Portable.BouncyCastle": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "N:\\Projects\\BookShare\\BookShare\\BookShare.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "N:\\Projects\\BookShare\\BookShare\\BookShare.csproj",
+        "projectName": "BookShare",
+        "projectPath": "N:\\Projects\\BookShare\\BookShare\\BookShare.csproj",
+        "packagesPath": "C:\\Users\\muxam\\.nuget\\packages\\",
+        "outputPath": "N:\\Projects\\BookShare\\BookShare\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\muxam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "N:\\Projects\\BookShare\\BookShare.DataAccess\\BookShare.DataAccess.csproj": {
+                "projectPath": "N:\\Projects\\BookShare\\BookShare.DataAccess\\BookShare.DataAccess.csproj"
+              },
+              "N:\\Projects\\BookShare\\BookShare.Domain\\BookShare.Domain.csproj": {
+                "projectPath": "N:\\Projects\\BookShare\\BookShare.Domain\\BookShare.Domain.csproj"
+              },
+              "N:\\Projects\\BookShare\\BookShare.Service\\BookShare.Service.csproj": {
+                "projectPath": "N:\\Projects\\BookShare\\BookShare.Service\\BookShare.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

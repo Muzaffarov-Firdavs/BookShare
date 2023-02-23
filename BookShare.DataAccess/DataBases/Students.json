@@ -1,0 +1,24 @@
+[
+  {
+    "FirstName": "Muxammad",
+    "LastName": " Rahimboyev",
+    "Email": "Muxammadcodes@gmail.com",
+    "PhoneNumber": "+998900235088",
+    "PasswordHash": "",
+    "Salt": "",
+    "CreatedAt": "2023-02-23T13:50:00.3527874+05:00",
+    "UpdatedAt": null,
+    "Id": 2
+  },
+  {
+    "FirstName": "Muxammad",
+    "LastName": " Rahimboyev",
+    "Email": "Muxammadcod1es@gmail.com",
+    "PhoneNumber": "+998900235988",
+    "PasswordHash": "$2a$11$joeMvMYkhVgNbVIrwQXGbuxl6aJCNNnxU2MbLZkntgzRuPfRwMBp2",
+    "Salt": "69b933c9-735f-4fdf-a126-10fc022f6cb4",
+    "CreatedAt": "2023-02-23T13:55:32.2590382+05:00",
+    "UpdatedAt": "2023-02-23T08:55:32.2524335Z",
+    "Id": 3
+  }
+]

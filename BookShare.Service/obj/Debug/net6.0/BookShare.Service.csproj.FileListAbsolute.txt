@@ -1,0 +1,17 @@
+N:\Projects\BookShare\BookShare.Service\obj\Debug\net6.0\BookShare.Service.csproj.AssemblyReference.cache
+N:\Projects\BookShare\BookShare.Service\obj\Debug\net6.0\BookShare.Service.GeneratedMSBuildEditorConfig.editorconfig
+N:\Projects\BookShare\BookShare.Service\obj\Debug\net6.0\BookShare.Service.AssemblyInfoInputs.cache
+N:\Projects\BookShare\BookShare.Service\obj\Debug\net6.0\BookShare.Service.AssemblyInfo.cs
+N:\Projects\BookShare\BookShare.Service\obj\Debug\net6.0\BookShare.Service.csproj.CoreCompileInputs.cache
+N:\Projects\BookShare\BookShare.Service\bin\Debug\net6.0\BookShare.Service.deps.json
+N:\Projects\BookShare\BookShare.Service\bin\Debug\net6.0\BookShare.Service.dll
+N:\Projects\BookShare\BookShare.Service\bin\Debug\net6.0\BookShare.Service.pdb
+N:\Projects\BookShare\BookShare.Service\bin\Debug\net6.0\BookShare.DataAccess.dll
+N:\Projects\BookShare\BookShare.Service\bin\Debug\net6.0\BookShare.Domain.dll
+N:\Projects\BookShare\BookShare.Service\bin\Debug\net6.0\BookShare.DataAccess.pdb
+N:\Projects\BookShare\BookShare.Service\bin\Debug\net6.0\BookShare.Domain.pdb
+N:\Projects\BookShare\BookShare.Service\obj\Debug\net6.0\BookShare.Service.csproj.CopyComplete
+N:\Projects\BookShare\BookShare.Service\obj\Debug\net6.0\BookShare.Service.dll
+N:\Projects\BookShare\BookShare.Service\obj\Debug\net6.0\refint\BookShare.Service.dll
+N:\Projects\BookShare\BookShare.Service\obj\Debug\net6.0\BookShare.Service.pdb
+N:\Projects\BookShare\BookShare.Service\obj\Debug\net6.0\ref\BookShare.Service.dll

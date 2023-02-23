@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tzvew7sEHyuOxfNUmge2BIto7i6lBTe2C6DuNi8p2EFKBcMI6jGDdMNJ4bvxzQ5kTzAnn7QjA2WnXqZ2FW34rA==",
+  "success": true,
+  "projectFilePath": "N:\\Projects\\BookShare\\BookShare.Service\\BookShare.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\muxam\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\muxam\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\muxam\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

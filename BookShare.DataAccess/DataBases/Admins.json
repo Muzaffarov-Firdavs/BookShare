@@ -1,0 +1,35 @@
+[
+  {
+    "FirstName": "Alisher",
+    "LastName": "Aliyev",
+    "Email": "Maxsudov23@gmail.com",
+    "PhoneNumber": "+998900230990",
+    "PasswordHash": "$2a$11$6lmGt4XkxOWr05kU6C.JquUho460971NzVaNoRMAsTXcceFxUxteq",
+    "Salt": "526175e1-4672-48fe-8c7c-79faf4cf631e",
+    "CreatedAt": "2023-02-23T10:45:05.2197045+05:00",
+    "UpdatedAt": "2023-02-23T10:45:05.2181735+05:00",
+    "Id": 0
+  },
+  {
+    "FirstName": "Rasulbek",
+    "LastName": "Aliyev",
+    "Email": "ra23@gmail.com",
+    "PhoneNumber": "+998900230111",
+    "PasswordHash": "$2a$11$e6knBJvEgsZetPDRJjwm1.ppt4CQKzM8QKQHID5i7lQhaPfrFeQUO",
+    "Salt": "6ae9a96c-8943-42fd-b764-82cf3d080708",
+    "CreatedAt": "2023-02-23T10:45:35.4365022+05:00",
+    "UpdatedAt": "2023-02-23T10:45:35.4354649+05:00",
+    "Id": 0
+  },
+  {
+    "FirstName": "Rasulbek",
+    "LastName": "Maxsudov",
+    "Email": "Maxsudov@gmail.com",
+    "PhoneNumber": "+998900223030",
+    "PasswordHash": "$2a$11$SI.SM/t/BRGASzAIWRuUI.fRyOH.U0h2i0qyMW3JquhdzAywBfR6W",
+    "Salt": "d8dd73e7-7bf8-4eff-9d7d-3b73738fd75b",
+    "CreatedAt": "2023-02-23T13:59:28.6373882+05:00",
+    "UpdatedAt": "2023-02-23T13:59:28.6325411+05:00",
+    "Id": 1
+  }
+]

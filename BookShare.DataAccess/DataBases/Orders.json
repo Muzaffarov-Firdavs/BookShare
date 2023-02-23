@@ -1,0 +1,18 @@
+[
+  {
+    "BookId": 1,
+    "StudentId": 1,
+    "PaymentId": 1,
+    "CreatedAt": "2023-02-23T13:30:15.9868797+05:00",
+    "UpdatedAt": null,
+    "Id": 2
+  },
+  {
+    "BookId": 1,
+    "StudentId": 2,
+    "PaymentId": 3,
+    "CreatedAt": "2023-02-23T13:30:25.2183615+05:00",
+    "UpdatedAt": null,
+    "Id": 3
+  }
+]

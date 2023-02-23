@@ -1,0 +1,15 @@
+N:\Projects\BookShare\BookShare.DataAccess\obj\Debug\net6.0\BookShare.DataAccess.csproj.AssemblyReference.cache
+N:\Projects\BookShare\BookShare.DataAccess\obj\Debug\net6.0\BookShare.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+N:\Projects\BookShare\BookShare.DataAccess\obj\Debug\net6.0\BookShare.DataAccess.AssemblyInfoInputs.cache
+N:\Projects\BookShare\BookShare.DataAccess\obj\Debug\net6.0\BookShare.DataAccess.AssemblyInfo.cs
+N:\Projects\BookShare\BookShare.DataAccess\obj\Debug\net6.0\BookShare.DataAccess.csproj.CoreCompileInputs.cache
+N:\Projects\BookShare\BookShare.DataAccess\bin\Debug\net6.0\BookShare.DataAccess.deps.json
+N:\Projects\BookShare\BookShare.DataAccess\bin\Debug\net6.0\BookShare.DataAccess.dll
+N:\Projects\BookShare\BookShare.DataAccess\bin\Debug\net6.0\BookShare.DataAccess.pdb
+N:\Projects\BookShare\BookShare.DataAccess\bin\Debug\net6.0\BookShare.Domain.dll
+N:\Projects\BookShare\BookShare.DataAccess\bin\Debug\net6.0\BookShare.Domain.pdb
+N:\Projects\BookShare\BookShare.DataAccess\obj\Debug\net6.0\BookShare.DataAccess.csproj.CopyComplete
+N:\Projects\BookShare\BookShare.DataAccess\obj\Debug\net6.0\BookShare.DataAccess.dll
+N:\Projects\BookShare\BookShare.DataAccess\obj\Debug\net6.0\refint\BookShare.DataAccess.dll
+N:\Projects\BookShare\BookShare.DataAccess\obj\Debug\net6.0\BookShare.DataAccess.pdb
+N:\Projects\BookShare\BookShare.DataAccess\obj\Debug\net6.0\ref\BookShare.DataAccess.dll

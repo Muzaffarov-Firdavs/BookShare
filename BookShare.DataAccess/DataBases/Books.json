@@ -1,0 +1,68 @@
+[
+  {
+    "Name": "Iymon",
+    "SeriaNumber": "",
+    "Author": "   ",
+    "Description": "ISlomiy",
+    "Edition": 0,
+    "Year": "2023-02-22T00:00:00+05:00",
+    "CreatedAt": "2023-02-22T21:00:21.9807195+05:00",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "Id": 1
+  },
+  {
+    "Name": "Qalblar",
+    "SeriaNumber": "Qr22226",
+    "Author": "Muxammad Raximboyev",
+    "Description": "",
+    "Edition": 1,
+    "Year": "2009",
+    "CreatedAt": "2023-02-23T13:00:08.5588464+05:00",
+    "UpdatedAt": "2023-02-23T13:00:08.5574897+05:00",
+    "Id": 1
+  },
+  {
+    "Name": "Qalblar",
+    "SeriaNumber": "Qr222236",
+    "Author": "Muxammad Raximboyev",
+    "Description": "",
+    "Edition": 1,
+    "Year": "2009",
+    "CreatedAt": "2023-02-23T13:00:27.6871782+05:00",
+    "UpdatedAt": "2023-02-23T13:00:27.6856161+05:00",
+    "Id": 1
+  },
+  {
+    "Name": "Qalblar",
+    "SeriaNumber": "Qr22222236",
+    "Author": "Muxammad Raximboyev",
+    "Description": "",
+    "Edition": 1,
+    "Year": "2009",
+    "CreatedAt": "2023-02-23T13:07:46.466434+05:00",
+    "UpdatedAt": "2023-02-23T13:07:46.4638617+05:00",
+    "Id": 1
+  },
+  {
+    "Name": "Qalblar",
+    "SeriaNumber": "Qt36",
+    "Author": "Muxammad Raximboyev",
+    "Description": "",
+    "Edition": 1,
+    "Year": "2009",
+    "CreatedAt": "2023-02-23T13:08:44.884482+05:00",
+    "UpdatedAt": "2023-02-23T13:08:44.8814655+05:00",
+    "Id": 2
+  },
+  {
+    "Name": "Qalblar",
+    "SeriaNumber": "Qt436",
+    "Author": "Muxammad Raximboyev",
+    "Description": "",
+    "Edition": 1,
+    "Year": "2009",
+    "CreatedAt": "2023-02-23T13:09:02.8504988+05:00",
+    "UpdatedAt": "2023-02-23T13:09:02.8411773+05:00",
+    "Id": 3
+  }
+]

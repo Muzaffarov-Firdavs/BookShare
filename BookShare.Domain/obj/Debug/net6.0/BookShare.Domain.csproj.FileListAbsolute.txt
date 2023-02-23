@@ -1,0 +1,12 @@
+N:\Projects\BookShare\BookShare.Domain\obj\Debug\net6.0\BookShare.Domain.csproj.AssemblyReference.cache
+N:\Projects\BookShare\BookShare.Domain\obj\Debug\net6.0\BookShare.Domain.GeneratedMSBuildEditorConfig.editorconfig
+N:\Projects\BookShare\BookShare.Domain\obj\Debug\net6.0\BookShare.Domain.AssemblyInfoInputs.cache
+N:\Projects\BookShare\BookShare.Domain\obj\Debug\net6.0\BookShare.Domain.AssemblyInfo.cs
+N:\Projects\BookShare\BookShare.Domain\obj\Debug\net6.0\BookShare.Domain.csproj.CoreCompileInputs.cache
+N:\Projects\BookShare\BookShare.Domain\bin\Debug\net6.0\BookShare.Domain.deps.json
+N:\Projects\BookShare\BookShare.Domain\bin\Debug\net6.0\BookShare.Domain.dll
+N:\Projects\BookShare\BookShare.Domain\bin\Debug\net6.0\BookShare.Domain.pdb
+N:\Projects\BookShare\BookShare.Domain\obj\Debug\net6.0\BookShare.Domain.dll
+N:\Projects\BookShare\BookShare.Domain\obj\Debug\net6.0\refint\BookShare.Domain.dll
+N:\Projects\BookShare\BookShare.Domain\obj\Debug\net6.0\BookShare.Domain.pdb
+N:\Projects\BookShare\BookShare.Domain\obj\Debug\net6.0\ref\BookShare.Domain.dll
